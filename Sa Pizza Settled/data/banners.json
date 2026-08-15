@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1786787860771",
+    "title": "Sa Pizza ",
+    "description": "In suyji naharlar bilen siziň hyzmatyňyzda",
+    "image": "/uploads/1786787829895-325213838.webp",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "1786787890564",
+    "title": "Sa Pizza ",
+    "description": "Rahatlygyňyz üçin ähli şertler döredilen",
+    "image": "/uploads/1786787866493-258796435.webp",
+    "active": true,
+    "order": 0
+  }
+]

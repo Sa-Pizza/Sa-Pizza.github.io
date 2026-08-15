@@ -1,0 +1,325 @@
+[
+  {
+    "id": 2243,
+    "name": {
+      "en": "Breakfast",
+      "tr": "Kahvaltı",
+      "tk": "Ertirlikler",
+      "ru": "Завтраки"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 0,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:04.681Z"
+  },
+  {
+    "id": 2244,
+    "name": {
+      "en": "Soups",
+      "tr": "Çorbalar",
+      "tk": "Çorbalar",
+      "ru": "Супы"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 1,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:04.993Z"
+  },
+  {
+    "id": 2245,
+    "name": {
+      "en": "Dough Dishes",
+      "tr": "Hamur İşleri",
+      "tk": "Hamyrly naharlar",
+      "ru": "Блюда из теста"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 2,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:04.995Z"
+  },
+  {
+    "id": 2246,
+    "name": {
+      "en": "Side Dishes",
+      "tr": "Garnitürler",
+      "tk": "Garnirler",
+      "ru": "Гарниры"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 3,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:04.997Z"
+  },
+  {
+    "id": 2247,
+    "name": {
+      "en": "Appetizers & Salads",
+      "tr": "Meze ve Salatalar",
+      "tk": "Işdäaçarlar",
+      "ru": "Закуски и салаты"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 4,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:04.999Z"
+  },
+  {
+    "id": 2248,
+    "name": {
+      "en": "Meat Dishes",
+      "tr": "Et Yemekleri",
+      "tk": "Etli naharlar",
+      "ru": "Мясные блюда"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 5,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.155Z"
+  },
+  {
+    "id": 2249,
+    "name": {
+      "en": "Fish Dishes",
+      "tr": "Balık Yemekleri",
+      "tk": "Balykly naharlar",
+      "ru": "Рыбные блюда"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 6,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.312Z"
+  },
+  {
+    "id": 2250,
+    "name": {
+      "en": "Doners",
+      "tr": "Dönerler",
+      "tk": "Dönerler",
+      "ru": "Донеры"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 7,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.314Z"
+  },
+  {
+    "id": 2251,
+    "name": {
+      "en": "Burgers",
+      "tr": "Burgerler",
+      "tk": "Burgerler",
+      "ru": "Бургеры"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 8,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.316Z"
+  },
+  {
+    "id": 2252,
+    "name": {
+      "en": "Turkmen & Turkish Dishes",
+      "tr": "Türkmen ve Türk Yemekleri",
+      "tk": "Türkmen we türk naharlary",
+      "ru": "Туркменские и турецкие блюда"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 9,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.318Z"
+  },
+  {
+    "id": 2253,
+    "name": {
+      "en": "Chicken Dishes",
+      "tr": "Tavuk Yemekleri",
+      "tk": "Towuk naharlary",
+      "ru": "Блюда из курицы"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 10,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.424Z"
+  },
+  {
+    "id": 2254,
+    "name": {
+      "en": "Grill Dishes",
+      "tr": "Mangal Yemekleri",
+      "tk": "Mangal naharlary",
+      "ru": "Блюда на мангале"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 11,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.593Z"
+  },
+  {
+    "id": 2255,
+    "name": {
+      "en": "Coffee",
+      "tr": "Kahve",
+      "tk": "Kofe",
+      "ru": "Кофе"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 12,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.595Z"
+  },
+  {
+    "id": 2256,
+    "name": {
+      "en": "Tea",
+      "tr": "Çay",
+      "tk": "Çaý",
+      "ru": "Чай"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 13,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.597Z"
+  },
+  {
+    "id": 2257,
+    "name": {
+      "en": "Lemonade & Mojito",
+      "tr": "Limonata ve Mojito",
+      "tk": "Limonad we mohito",
+      "ru": "Лимонады и мохито"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 14,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.599Z"
+  },
+  {
+    "id": 2258,
+    "name": {
+      "en": "Smoothies",
+      "tr": "Smoothie",
+      "tk": "Smuzi",
+      "ru": "Смузи"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 15,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.612Z"
+  },
+  {
+    "id": 2259,
+    "name": {
+      "en": "Milkshakes",
+      "tr": "Milkshake",
+      "tk": "Milkşeýk",
+      "ru": "Молочные коктейли"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 16,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.723Z"
+  },
+  {
+    "id": 2260,
+    "name": {
+      "en": "Fresh Juices",
+      "tr": "Taze Sıkma Meyve Suları",
+      "tk": "Freş şireler",
+      "ru": "Свежевыжатые соки"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 17,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-14T12:45:00.000Z",
+    "updatedAt": "2026-08-15T11:21:05.725Z"
+  },
+  {
+    "id": 2372,
+    "name": {
+      "ru": "Холодные напитки",
+      "tk": "Sowuk icgiler",
+      "tr": "Soğuk İçecekler",
+      "en": "Cold drinks"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "meal",
+    "sortOrder": 19,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-15T11:53:59.983Z",
+    "updatedAt": "2026-08-15T11:53:59.983Z"
+  }
+]

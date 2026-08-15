@@ -1,0 +1,104 @@
+[
+  {
+    "id": 2231,
+    "name": {
+      "en": "Bathroom",
+      "tr": "Banyo",
+      "tk": "Hammam",
+      "ru": "Ванная"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 1,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.519Z",
+    "updatedAt": "2026-08-13T12:12:53.519Z"
+  },
+  {
+    "id": 2232,
+    "name": {
+      "en": "Minibar",
+      "tr": "Minibar",
+      "tk": "Minibar",
+      "ru": "Мини-бар"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 2,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.522Z",
+    "updatedAt": "2026-08-13T12:12:53.522Z"
+  },
+  {
+    "id": 2233,
+    "name": {
+      "en": "Snacks",
+      "tr": "Atıştırmalık",
+      "tk": "Ýeňil naharlar",
+      "ru": "Снеки"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 3,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.524Z",
+    "updatedAt": "2026-08-13T12:12:53.524Z"
+  },
+  {
+    "id": 2234,
+    "name": {
+      "en": "Room Comfort",
+      "tr": "Oda Konforu",
+      "tk": "Otag amatlyklary",
+      "ru": "Комфорт номера"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 4,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.526Z",
+    "updatedAt": "2026-08-13T12:12:53.526Z"
+  },
+  {
+    "id": 2235,
+    "name": {
+      "en": "Laundry",
+      "tr": "Çamaşırhane",
+      "tk": "Kir ýuwulýan",
+      "ru": "Прачечная"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 5,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.528Z",
+    "updatedAt": "2026-08-13T12:12:53.528Z"
+  },
+  {
+    "id": 2236,
+    "name": {
+      "en": "Souvenirs",
+      "tr": "Hediyelik Eşya",
+      "tk": "Ýadygärlik sowgatlar",
+      "ru": "Сувениры"
+    },
+    "image": null,
+    "icon": null,
+    "kind": "store",
+    "sortOrder": 6,
+    "discountPercent": null,
+    "discountUntil": null,
+    "createdAt": "2026-08-13T12:12:53.530Z",
+    "updatedAt": "2026-08-13T12:12:53.530Z"
+  }
+]

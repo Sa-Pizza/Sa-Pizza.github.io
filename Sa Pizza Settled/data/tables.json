@@ -1,0 +1,662 @@
+[
+  {
+    "id": 46,
+    "number": 1,
+    "tableCode": "Y6F7SK5Q",
+    "name": "Stol 1",
+    "tabletPin": null,
+    "status": "occupied",
+    "createdAt": "2026-07-04T04:08:04.301Z",
+    "updatedAt": "2026-07-15T06:52:38.967Z"
+  },
+  {
+    "id": 47,
+    "number": 2,
+    "tableCode": "XRFE8ZAQ",
+    "name": "Stol 2",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:09.639Z",
+    "updatedAt": "2026-07-04T04:08:09.639Z"
+  },
+  {
+    "id": 48,
+    "number": 3,
+    "tableCode": "TXGFVH6L",
+    "name": "Stol 3",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:15.457Z",
+    "updatedAt": "2026-07-04T04:08:15.457Z"
+  },
+  {
+    "id": 49,
+    "number": 4,
+    "tableCode": "DYATXHF8",
+    "name": "Stol 4",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:20.990Z",
+    "updatedAt": "2026-07-04T04:08:20.990Z"
+  },
+  {
+    "id": 50,
+    "number": 5,
+    "tableCode": "AV9HRHZ4",
+    "name": "Stol 5",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:27.023Z",
+    "updatedAt": "2026-07-04T04:08:27.023Z"
+  },
+  {
+    "id": 51,
+    "number": 6,
+    "tableCode": "FE8QD2LD",
+    "name": "Stol 6",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:32.533Z",
+    "updatedAt": "2026-07-04T04:08:32.533Z"
+  },
+  {
+    "id": 52,
+    "number": 7,
+    "tableCode": "RVXEPNGH",
+    "name": "Stol 7",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:39.442Z",
+    "updatedAt": "2026-07-04T04:08:39.442Z"
+  },
+  {
+    "id": 53,
+    "number": 8,
+    "tableCode": "QJYEP5GH",
+    "name": "Stol 8",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:47.130Z",
+    "updatedAt": "2026-07-04T04:08:47.130Z"
+  },
+  {
+    "id": 54,
+    "number": 9,
+    "tableCode": "SX564N7A",
+    "name": "Stol 9",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:08:53.515Z",
+    "updatedAt": "2026-07-04T04:08:53.515Z"
+  },
+  {
+    "id": 55,
+    "number": 10,
+    "tableCode": "2PPEFR5B",
+    "name": "Stol 10",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:10.025Z",
+    "updatedAt": "2026-08-15T10:09:01.470Z"
+  },
+  {
+    "id": 56,
+    "number": 11,
+    "tableCode": "V24ML2A4",
+    "name": "Stol 11",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:36.723Z",
+    "updatedAt": "2026-07-04T04:09:36.723Z"
+  },
+  {
+    "id": 57,
+    "number": 12,
+    "tableCode": "NCSDA5LZ",
+    "name": "Stol 12",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:41.761Z",
+    "updatedAt": "2026-08-15T10:27:10.525Z"
+  },
+  {
+    "id": 58,
+    "number": 13,
+    "tableCode": "9LZ4WNY7",
+    "name": "Stol 13",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:47.156Z",
+    "updatedAt": "2026-07-04T04:09:47.156Z"
+  },
+  {
+    "id": 59,
+    "number": 14,
+    "tableCode": "5W52V989",
+    "name": "Stol 14",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:52.538Z",
+    "updatedAt": "2026-07-04T04:09:52.538Z"
+  },
+  {
+    "id": 60,
+    "number": 15,
+    "tableCode": "3MFW49W6",
+    "name": "Stol 15",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:09:58.367Z",
+    "updatedAt": "2026-07-04T04:09:58.367Z"
+  },
+  {
+    "id": 61,
+    "number": 16,
+    "tableCode": "JXLPJ2NK",
+    "name": "Stol 16",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:10:04.309Z",
+    "updatedAt": "2026-07-04T04:10:04.309Z"
+  },
+  {
+    "id": 62,
+    "number": 17,
+    "tableCode": "NEM4ZYHZ",
+    "name": "Stol 17",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:10:10.344Z",
+    "updatedAt": "2026-07-04T04:10:10.344Z"
+  },
+  {
+    "id": 63,
+    "number": 18,
+    "tableCode": "TLH75AFV",
+    "name": "Stol 18",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:10:15.669Z",
+    "updatedAt": "2026-07-04T04:10:15.669Z"
+  },
+  {
+    "id": 64,
+    "number": 19,
+    "tableCode": "ND4928MG",
+    "name": "Stol 19",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:10:21.117Z",
+    "updatedAt": "2026-07-04T04:10:21.117Z"
+  },
+  {
+    "id": 65,
+    "number": 20,
+    "tableCode": "AF574XTZ",
+    "name": "Stol 20",
+    "tabletPin": null,
+    "status": "available",
+    "createdAt": "2026-07-04T04:10:26.960Z",
+    "updatedAt": "2026-07-04T04:10:26.960Z"
+  },
+  {
+    "id": 66,
+    "number": -66,
+    "tableCode": "DEL-66-1786777520849",
+    "name": "Kabina 1",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:53:45.599Z",
+    "updatedAt": "2026-08-15T07:05:20.849Z"
+  },
+  {
+    "id": 67,
+    "number": -67,
+    "tableCode": "DEL-67-1786777522148",
+    "name": "Kabina 2",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:53:52.243Z",
+    "updatedAt": "2026-08-15T07:05:22.149Z"
+  },
+  {
+    "id": 68,
+    "number": -68,
+    "tableCode": "DEL-68-1786777523365",
+    "name": "Kabina 3",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:53:59.571Z",
+    "updatedAt": "2026-08-15T07:05:23.365Z"
+  },
+  {
+    "id": 69,
+    "number": -69,
+    "tableCode": "DEL-69-1786777524532",
+    "name": "Kabina 4",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:04.023Z",
+    "updatedAt": "2026-08-15T07:05:24.532Z"
+  },
+  {
+    "id": 70,
+    "number": -70,
+    "tableCode": "DEL-70-1786777525915",
+    "name": "Kabina 5",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:08.449Z",
+    "updatedAt": "2026-08-15T07:05:25.916Z"
+  },
+  {
+    "id": 71,
+    "number": -71,
+    "tableCode": "DEL-71-1786777527257",
+    "name": "Kabina 6",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:13.216Z",
+    "updatedAt": "2026-08-15T07:05:27.257Z"
+  },
+  {
+    "id": 72,
+    "number": -72,
+    "tableCode": "DEL-72-1786777529440",
+    "name": "Kabina 7",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:18.774Z",
+    "updatedAt": "2026-08-15T07:05:29.441Z"
+  },
+  {
+    "id": 73,
+    "number": -73,
+    "tableCode": "DEL-73-1786777531724",
+    "name": "Kabina 8",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:23.815Z",
+    "updatedAt": "2026-08-15T07:05:31.724Z"
+  },
+  {
+    "id": 74,
+    "number": -74,
+    "tableCode": "DEL-74-1786777533115",
+    "name": "Kabina 9",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:28.658Z",
+    "updatedAt": "2026-08-15T07:05:33.115Z"
+  },
+  {
+    "id": 75,
+    "number": -75,
+    "tableCode": "DEL-75-1786777534407",
+    "name": "Kabina 10",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:33.164Z",
+    "updatedAt": "2026-08-15T07:05:34.408Z"
+  },
+  {
+    "id": 76,
+    "number": -76,
+    "tableCode": "DEL-76-1786777535623",
+    "name": "Kabina 11",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:38.620Z",
+    "updatedAt": "2026-08-15T07:05:35.624Z"
+  },
+  {
+    "id": 77,
+    "number": -77,
+    "tableCode": "DEL-77-1786777537790",
+    "name": "Kabina 12",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:45.915Z",
+    "updatedAt": "2026-08-15T07:05:37.790Z"
+  },
+  {
+    "id": 78,
+    "number": -78,
+    "tableCode": "DEL-78-1786777539848",
+    "name": "Kabina 13",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:51.023Z",
+    "updatedAt": "2026-08-15T07:05:39.849Z"
+  },
+  {
+    "id": 79,
+    "number": -79,
+    "tableCode": "DEL-79-1786777541106",
+    "name": "Kabina 14",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:54:56.012Z",
+    "updatedAt": "2026-08-15T07:05:41.107Z"
+  },
+  {
+    "id": 80,
+    "number": -80,
+    "tableCode": "DEL-80-1786777542381",
+    "name": "Kabina 15",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T05:55:00.578Z",
+    "updatedAt": "2026-08-15T07:05:42.382Z"
+  },
+  {
+    "id": 81,
+    "number": -81,
+    "tableCode": "DEL-81-1786777543582",
+    "name": "Kabina 16",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T06:11:49.220Z",
+    "updatedAt": "2026-08-15T07:05:43.582Z"
+  },
+  {
+    "id": 82,
+    "number": -82,
+    "tableCode": "DEL-82-1786777544965",
+    "name": "Vip 1",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:16.394Z",
+    "updatedAt": "2026-08-15T07:05:44.965Z"
+  },
+  {
+    "id": 83,
+    "number": -83,
+    "tableCode": "DEL-83-1786777546181",
+    "name": "Vip 2",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:20.276Z",
+    "updatedAt": "2026-08-15T07:05:46.182Z"
+  },
+  {
+    "id": 84,
+    "number": -84,
+    "tableCode": "DEL-84-1786777547665",
+    "name": "Vip 3",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:24.994Z",
+    "updatedAt": "2026-08-15T07:05:47.665Z"
+  },
+  {
+    "id": 85,
+    "number": -85,
+    "tableCode": "DEL-85-1786777549040",
+    "name": "Vip 4",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:28.551Z",
+    "updatedAt": "2026-08-15T07:05:49.041Z"
+  },
+  {
+    "id": 86,
+    "number": -86,
+    "tableCode": "DEL-86-1786777551106",
+    "name": "Vip 5",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:33.460Z",
+    "updatedAt": "2026-08-15T07:05:51.107Z"
+  },
+  {
+    "id": 87,
+    "number": -87,
+    "tableCode": "DEL-87-1786777552540",
+    "name": "Vip 6",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:38.018Z",
+    "updatedAt": "2026-08-15T07:05:52.540Z"
+  },
+  {
+    "id": 88,
+    "number": -88,
+    "tableCode": "DEL-88-1786777553840",
+    "name": "Vip 7",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:42.103Z",
+    "updatedAt": "2026-08-15T07:05:53.840Z"
+  },
+  {
+    "id": 89,
+    "number": -89,
+    "tableCode": "DEL-89-1786777555298",
+    "name": "Vip 8",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:46.634Z",
+    "updatedAt": "2026-08-15T07:05:55.299Z"
+  },
+  {
+    "id": 90,
+    "number": -90,
+    "tableCode": "DEL-90-1786777557414",
+    "name": "Vip 9",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:51.235Z",
+    "updatedAt": "2026-08-15T07:05:57.415Z"
+  },
+  {
+    "id": 91,
+    "number": -91,
+    "tableCode": "DEL-91-1786777558890",
+    "name": "Vip 10",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T07:15:55.768Z",
+    "updatedAt": "2026-08-15T07:05:58.890Z"
+  },
+  {
+    "id": 92,
+    "number": -92,
+    "tableCode": "DEL-92-1786777560256",
+    "name": "Terrasa 1",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:10:09.858Z",
+    "updatedAt": "2026-08-15T07:06:00.257Z"
+  },
+  {
+    "id": 93,
+    "number": -93,
+    "tableCode": "DEL-93-1786777562698",
+    "name": "Terrasa 2",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:10:38.945Z",
+    "updatedAt": "2026-08-15T07:06:02.698Z"
+  },
+  {
+    "id": 94,
+    "number": -94,
+    "tableCode": "DEL-94-1786777563894",
+    "name": "Terrasa 3",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:10:51.068Z",
+    "updatedAt": "2026-08-15T07:06:03.894Z"
+  },
+  {
+    "id": 95,
+    "number": -95,
+    "tableCode": "DEL-95-1786777565235",
+    "name": "Terrasa 4",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:11:41.251Z",
+    "updatedAt": "2026-08-15T07:06:05.236Z"
+  },
+  {
+    "id": 96,
+    "number": -96,
+    "tableCode": "DEL-96-1786777566452",
+    "name": "Terrasa 5",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:12:28.367Z",
+    "updatedAt": "2026-08-15T07:06:06.453Z"
+  },
+  {
+    "id": 97,
+    "number": -97,
+    "tableCode": "DEL-97-1786777568119",
+    "name": "Terrasa 6",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:13:37.887Z",
+    "updatedAt": "2026-08-15T07:06:08.119Z"
+  },
+  {
+    "id": 98,
+    "number": -98,
+    "tableCode": "DEL-98-1786777569369",
+    "name": "Terrasa 7",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:13:58.832Z",
+    "updatedAt": "2026-08-15T07:06:09.369Z"
+  },
+  {
+    "id": 99,
+    "number": -99,
+    "tableCode": "DEL-99-1786777570718",
+    "name": "Terrasa 8",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:14:31.126Z",
+    "updatedAt": "2026-08-15T07:06:10.719Z"
+  },
+  {
+    "id": 100,
+    "number": -100,
+    "tableCode": "DEL-100-1786777572044",
+    "name": "Terrasa 9",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:14:51.690Z",
+    "updatedAt": "2026-08-15T07:06:12.044Z"
+  },
+  {
+    "id": 101,
+    "number": -101,
+    "tableCode": "DEL-101-1786777573235",
+    "name": "Terrasa 10",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:15:03.191Z",
+    "updatedAt": "2026-08-15T07:06:13.236Z"
+  },
+  {
+    "id": 102,
+    "number": -102,
+    "tableCode": "DEL-102-1786777574327",
+    "name": "Terrasa 11",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:16:06.113Z",
+    "updatedAt": "2026-08-15T07:06:14.328Z"
+  },
+  {
+    "id": 103,
+    "number": -103,
+    "tableCode": "DEL-103-1786777575443",
+    "name": "Terrasa 12",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:16:21.612Z",
+    "updatedAt": "2026-08-15T07:06:15.444Z"
+  },
+  {
+    "id": 104,
+    "number": -104,
+    "tableCode": "DEL-104-1786777576702",
+    "name": "Terrasa 13",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:16:39.727Z",
+    "updatedAt": "2026-08-15T07:06:16.702Z"
+  },
+  {
+    "id": 105,
+    "number": -105,
+    "tableCode": "DEL-105-1786777577977",
+    "name": "Terrasa 14",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:16:56.967Z",
+    "updatedAt": "2026-08-15T07:06:17.977Z"
+  },
+  {
+    "id": 106,
+    "number": -106,
+    "tableCode": "DEL-106-1786777579110",
+    "name": "Terrasa 15",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:17:03.502Z",
+    "updatedAt": "2026-08-15T07:06:19.111Z"
+  },
+  {
+    "id": 107,
+    "number": -107,
+    "tableCode": "DEL-107-1786777580368",
+    "name": "Terrasa 16",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-04T09:17:10.385Z",
+    "updatedAt": "2026-08-15T07:06:20.369Z"
+  },
+  {
+    "id": 109,
+    "number": -109,
+    "tableCode": "DEL-109-1786777584993",
+    "name": "Terrasa 17",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-13T13:48:28.898Z",
+    "updatedAt": "2026-08-15T07:06:24.994Z"
+  },
+  {
+    "id": 110,
+    "number": -110,
+    "tableCode": "DEL-110-1786777586660",
+    "name": "Terrasa 18",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-13T13:48:36.070Z",
+    "updatedAt": "2026-08-15T07:06:26.661Z"
+  },
+  {
+    "id": 111,
+    "number": -111,
+    "tableCode": "DEL-111-1786777588494",
+    "name": "Terrasa 19",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-13T13:48:42.892Z",
+    "updatedAt": "2026-08-15T07:06:28.494Z"
+  },
+  {
+    "id": 112,
+    "number": -112,
+    "tableCode": "DEL-112-1786777590960",
+    "name": "Terrasa 20",
+    "tabletPin": null,
+    "status": "deleted",
+    "createdAt": "2026-07-13T13:48:48.716Z",
+    "updatedAt": "2026-08-15T07:06:30.961Z"
+  }
+]
