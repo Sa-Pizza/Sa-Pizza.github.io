@@ -152,6 +152,11 @@ const T = {
     msgAddress: "Адрес",
     visitors: "посетителей",
     cartShort: "Корзина",
+    reviewBadge: "Подарок за отзыв",
+    reviewTitle: "Оставьте отзыв — получите подарок",
+    reviewText:
+      "Поделитесь впечатлениями о нас в Google и покажите свой отзыв сотруднику — подарок ваш!",
+    reviewBtn: "Оставить отзыв в Google",
   },
   tk: {
     tagline: "Onlaýn sargyt",
@@ -181,6 +186,11 @@ const T = {
     msgAddress: "Salgy",
     visitors: "myhman",
     cartShort: "Sebet",
+    reviewBadge: "Teswir üçin sowgat",
+    reviewTitle: "Teswir ýazyň — sowgat alyň",
+    reviewText:
+      "Biz barada pikiriňizi Google-da paýlaşyň we teswiriňizi işgärimize görkeziň — sowgat siziňki!",
+    reviewBtn: "Google-da teswir ýaz",
   },
   tr: {
     tagline: "Online sipariş",
@@ -210,6 +220,11 @@ const T = {
     msgAddress: "Adres",
     visitors: "ziyaretçi",
     cartShort: "Sepet",
+    reviewBadge: "Yorumunuza hediye",
+    reviewTitle: "Yorum yapın — hediyenizi alın",
+    reviewText:
+      "Bizimle ilgili izlenimlerinizi Google'da paylaşın ve yorumunuzu personelimize gösterin — hediye sizin!",
+    reviewBtn: "Google'da yorum yap",
   },
   en: {
     tagline: "Order online",
@@ -239,6 +254,11 @@ const T = {
     msgAddress: "Address",
     visitors: "visitors",
     cartShort: "Cart",
+    reviewBadge: "A gift for your review",
+    reviewTitle: "Leave a review — get a gift",
+    reviewText:
+      "Share your impressions of us on Google and show your review to our staff — the gift is yours!",
+    reviewBtn: "Leave a review on Google",
   },
 };
 
